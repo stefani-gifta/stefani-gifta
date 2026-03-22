@@ -2,6 +2,8 @@
 
 # *Hi, I'm Gifta*
 
+![Gifta's metrics](metrics-base.svg)
+
 <br>
 
 <sup>`LET'S CONNECT ON:`ㅤ</sup>
@@ -10,6 +12,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stefanigiftaganda@gmail.com)
 
 <br>
+
+---
+
 <br>
 
 My Tech Stack:
@@ -150,7 +155,11 @@ Python                   1 repo              █░░░░░░░░░░�
 
 <br>
 
-<ins><sup>▼ CHECK OUT MY PINNED PROJECTS BELOW ▼</sup></ins>
+<ins><sup>▼ CHECK OUT MY FAVORITE PROJECTS BELOW ▼</sup></ins>
+
+<br>
+
+![Gifta's fav repos](metrics-repositories.svg)
 
 </div>
 
