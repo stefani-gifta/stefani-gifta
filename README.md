@@ -97,48 +97,39 @@
 **🕒 I'm An Afternoon Warrior 🥷🏻**
 
 ```text
-🌅 Morning                245 commits         ███████████░░░░░░░░░░░░░░   42.76%
-🌞 Daytime                247 commits         ███████████░░░░░░░░░░░░░░   43.11%
-🌆 Evening                38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.63%
-🌙 Night                  43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.50%
+🌅 Morning                245 commits         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   42.68%
+🌞 Daytime                247 commits         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   43.03%
+🌆 Evening                38 commits          🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.62%
+🌙 Night                  44 commits          🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.67%
 ```
 
 **📅 I'm Most Productive on Friday**
 
 ```text
-Sunday                   60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.47%
-Monday                   75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.09%
-Tuesday                  87 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.18%
-Wednesday                75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.09%
-Thursday                 99 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.28%
-Friday                   121 commits         █████░░░░░░░░░░░░░░░░░░░░   21.12%
-Saturday                 56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.77%
+Sunday                   61 commits          🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.63%
+Monday                   75 commits          🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.07%
+Tuesday                  87 commits          🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.16%
+Wednesday                75 commits          🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.07%
+Thursday                 99 commits          🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.25%
+Friday                   121 commits         🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.08%
+Saturday                 56 commits          🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.76%
 ```
 
 **🔥 I Mostly Code in JavaScript**
 
 ```text
-JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   31.58%
-HTML                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05%
-Jupyter Notebook         3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79%
-Blade                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53%
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53%
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26%
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26%
-```
-
-**📈 Coding Streak**
-
-```text
-🔥 Current Streak:        4 days
-🏆 Longest Streak:        11 days
-📊 Daily Average:         0 hrs 0 mins
-💪 Total Coding Time:     0 secs
-🎯 Coding Consistency:    0.0%
-📅 Active Days:           0 days
+JavaScript               6 repos             🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   31.58%
+HTML                     4 repos             🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.05%
+Jupyter Notebook         3 repos             🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.79%
+CSS                      2 repos             🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.53%
+Blade                    2 repos             🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.53%
+Java                     1 repo              🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.26%
+Python                   1 repo              🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.26%
 ```
 
 
+
+⏳ *Last updated on 2026-03-22 02:05:21 +0000*
 <!--END_SECTION:readme-stats-->
 
 
