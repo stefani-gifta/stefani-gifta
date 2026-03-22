@@ -19,4 +19,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  # Optional: for WakaTime metrics
-          SHOW_METRICS: "COMMIT_TIMES_OF_DAY,COMMIT_DAYS_OF_WEEK,LANGUAGE_PER_REPO,CODING_STREAK"
+          SHOW_METRICS: "COMMIT_TIMES_OF_DAY,COMMIT_DAYS_OF_WEEK,LANGUAGE_PER_REPO"
+          WAKATIME_DATA: "EDITORS,LANGUAGES,PROJECTS,OPERATING_SYSTEMS"
+          WAKATIME_RANGE: "all_time"
+          SHOW_LAST_UPDATE: "true"
+          COMMIT_MESSAGE: "💜"
+          PROGRESS_BAR_VERSION: "2"
+          HIDE_REPO_INFO: "true"
