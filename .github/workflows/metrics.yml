@@ -14,24 +14,73 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      # 1. Base (header)
+      - name: Metrics - Base
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Asia/Jakarta
+          base: header
+          filename: metrics-base.svg
+
+      # 2. Isocalendar
+      - name: Metrics - Isocalendar
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Asia/Jakarta
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          filename: metrics-isocalendar.svg
+
+      # 3. Languages
+      - name: Metrics - Languages
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_languages: yes
-          plugin_stars: no
+          filename: metrics-languages.svg
+
+      # 4. Habits
+      - name: Metrics - Habits
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
-          plugin_people: yes
-          plugin_people_types: contributors
+          filename: metrics-habits.svg
+
+      # 5. Repositories
+      - name: Metrics - Repositories
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_repositories: yes
           plugin_repositories_featured: cv-Ingreadyent-2026
-          plugin_calendar: yes
-          config_order: base.header, isocalendar, languages, habits, repositories, people, calendar
           repositories_skipped: stefani-gifta, stefani-gifta/stefani-gifta
-          committer_message: "💜"
+          filename: metrics-repositories.svg
+
+      # 6. People (contributors)
+      - name: Metrics - People
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_people: yes
+          plugin_people_types: contributors
+          filename: metrics-people.svg
+
+      # 7. Calendar
+      - name: Metrics - Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_calendar: yes
+          filename: metrics-calendar.svg
           
