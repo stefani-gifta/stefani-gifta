@@ -20,9 +20,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  # Optional: for WakaTime metrics
           SHOW_METRICS: "COMMIT_TIMES_OF_DAY,COMMIT_DAYS_OF_WEEK,LANGUAGE_PER_REPO"
-          WAKATIME_RANGE: "all_time"
           SHOW_LAST_UPDATE: "true"
-          TIME_LAYOUT: "time.RFC822"
+          TIME_LAYOUT: "Mon, 02 Jan 2006 15:04" # Go time formatting
           PROGRESS_BAR_VERSION: "1"
           HIDE_REPO_INFO: "true"
+          SECTION_NAME: "fun-facts"
           COMMIT_MESSAGE: "💜"
