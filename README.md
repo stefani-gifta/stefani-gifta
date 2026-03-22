@@ -97,40 +97,42 @@
 <br>
 
 <!--START_SECTION:fun-facts-->
-***I'm An Afternoon Warrior***
+**🕒 I'm A Twilight Taskmaster 🌆**
 
 ```text
-🌅 Morning                245 commits         ███████████░░░░░░░░░░░░░░   42.53%
-🌞 Daytime                247 commits         ███████████░░░░░░░░░░░░░░   42.88%
-🌆 Evening                38 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.60%
-🌙 Night                  46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.99%
+🌅 Morning                26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.48%
+🌞 Daytime                214 commits         █████████░░░░░░░░░░░░░░░░   36.83%
+🌆 Evening                246 commits         ███████████░░░░░░░░░░░░░░   42.34%
+🌙 Night                  95 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.35%
 ```
 
-***I'm Most Productive on Friday***
+**📅 I'm Most Productive on Friday**
 
 ```text
-Sunday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.94%
-Monday                   75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.02%
-Tuesday                  87 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.10%
-Wednesday                75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.02%
-Thursday                 99 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.19%
-Friday                   121 commits         █████░░░░░░░░░░░░░░░░░░░░   21.01%
-Saturday                 56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.72%
+Sunday                   60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.33%
+Monday                   80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.77%
+Tuesday                  75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.91%
+Wednesday                84 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.46%
+Thursday                 100 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21%
+Friday                   113 commits         █████░░░░░░░░░░░░░░░░░░░░   19.45%
+Saturday                 69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.88%
 ```
 
-***I Mostly Code in JavaScript***
+**🔥 I Mostly Code in JavaScript**
 
 ```text
 JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   31.58%
 HTML                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05%
 Jupyter Notebook         3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79%
-Blade                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53%
 CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53%
+Blade                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53%
 Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26%
 Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26%
 ```
 
-*Last updated on time.RFC82222*
+
+
+⏳ *Last updated on Sun, 22 Mar 2026 09:38:55 WIB*
 <!--END_SECTION:fun-facts-->
 
 
