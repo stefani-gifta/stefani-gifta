@@ -96,7 +96,7 @@
 <br>
 <br>
 
-<!--START_SECTION:readme-stats-->
+<!--START_SECTION:fun-facts-->
 ***I'm An Afternoon Warrior***
 
 ```text
@@ -131,7 +131,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ```
 
 *Last updated on time.RFC82222*
-<!--END_SECTION:readme-stats-->
+<!--END_SECTION:fun-facts-->
 
 
 </div>
