@@ -1,6 +1,6 @@
 <div align="center">
 
-**Hi, I'm Gifta**
+# *Hi, I'm Gifta*
 
 <br>
 
@@ -10,8 +10,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stefanigiftaganda@gmail.com)
 
 <br>
+<br>
 
-*My Tech Stack:*
+My Tech Stack:
 
 <br>
 
