@@ -6,8 +6,6 @@
 
 <sup>`LET'S CONNECT ON:`ㅤ</sup>
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/stefani-gifta-ganda-4858b21b8)
-<!-- [![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff)](#) -->
-<!-- [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#) -->
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stefanigifta)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stefanigiftaganda@gmail.com)
 
