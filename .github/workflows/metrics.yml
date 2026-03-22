@@ -23,6 +23,7 @@ jobs:
           base: header
           filename: metrics-base.svg
           repositories_skipped: stefani-gifta, stefani-gifta/stefani-gifta
+          committer_message: "💜"
 
       # 2. Isocalendar
       - name: Metrics - Isocalendar
@@ -34,6 +35,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           filename: metrics-isocalendar.svg
+          committer_message: "💜💜"
 
       # 3. Languages
       - name: Metrics - Languages
@@ -43,10 +45,11 @@ jobs:
           base: ""
           plugin_languages: yes
           filename: metrics-languages.svg
+          committer_message: "💜"
 
       # 4. Habits
       - name: Metrics - Habits
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
@@ -55,6 +58,7 @@ jobs:
           plugin_habits_charts: no
           config_timezone: Asia/Jakarta
           filename: metrics-habits.svg
+          committer_message: "💜💜💜"
 
       # 5. Repositories
       - name: Metrics - Repositories
@@ -65,10 +69,11 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_featured: cv-Ingreadyent-2025
           filename: metrics-repositories.svg
+          committer_message: "💜💜"
 
       # 7. Calendar
       - name: Metrics - Calendar
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
