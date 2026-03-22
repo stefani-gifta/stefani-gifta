@@ -18,11 +18,20 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Asia/Jakarta
-          base: header
+          base: ""
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_stars: no
-          config_order: base.header, isocalendar, languages
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          plugin_people: yes
+          plugin_people_types: contributors
+          plugin_repositories: yes
+          plugin_repositories_featured: cv-Ingreadyent-2026
+          plugin_calendar: yes
+          config_order: base.header, isocalendar, languages, habits, repositories, people, calendar
           repositories_skipped: stefani-gifta, stefani-gifta/stefani-gifta
           committer_message: "💜"
           
