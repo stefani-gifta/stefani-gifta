@@ -1,6 +1,6 @@
 <div align="center">
 
-***Hi, I'm Gifta***
+**Hi, I'm Gifta**
 
 <br>
 
@@ -9,7 +9,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stefanigifta)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stefanigiftaganda@gmail.com)
 
-<sup>`MY CORE STACK:`ㅤ</sup>
+<br>
+
+*My Tech Stack:*
+
+<br>
+
+<sup>`PERSONAL FAVS:`ㅤ</sup>
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -18,7 +24,7 @@
 <br>
 
 <details>
-<summary><ins><sup>OTHER TECHNOLOGIES:</sup></ins></summary>
+<summary><ins><sup>OTHER TECHNOLOGIES USED:</sup></ins></summary>
 
 <br>
 
@@ -93,7 +99,9 @@
 </details>
 
 <br>
-<br>
+
+---
+
 <br>
 
 <!--START_SECTION:fun-facts-->
@@ -135,6 +143,13 @@ Python                   1 repo              █░░░░░░░░░░�
 ⏳ *Last updated on Sun, 22 Mar 2026 09:38:55 WIB*
 <!--END_SECTION:fun-facts-->
 
+<br>
+
+---
+
+<br>
+
+<ins><sup>▼ CHECK OUT MY PINNED PROJECTS BELOW ▼</sup></ins>
 
 </div>
 
