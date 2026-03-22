@@ -14,16 +14,16 @@ jobs:
     permissions:
       contents: write
     steps:
-      # # 1. Base (header)
-      # - name: Metrics - Base
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     token: ${{ secrets.METRICS_TOKEN }}
-      #     config_timezone: Asia/Jakarta
-      #     base: header
-      #     filename: metrics-base.svg
-      #     repositories_skipped: stefani-gifta, stefani-gifta/stefani-gifta
-      #     committer_message: "💜"
+      # 1. Base (header)
+      - name: Metrics - Base
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Asia/Jakarta
+          base: header
+          filename: metrics-base.svg
+          repositories_skipped: stefani-gifta, stefani-gifta/stefani-gifta
+          committer_message: "💜💜💜💜💜"
 
       # # 2. Isocalendar
       # - name: Metrics - Isocalendar
@@ -47,18 +47,18 @@ jobs:
       #     filename: metrics-languages.svg
       #     committer_message: "💜"
 
-      # 4. Habits
-      - name: Metrics - Habits
-        uses: stalomeow/metrics@projects-v2
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
-          config_timezone: Asia/Jakarta
-          filename: metrics-habits.svg
-          committer_message: "💜💜💜"
+      # # 4. Habits
+      # - name: Metrics - Habits
+      #   uses: stalomeow/metrics@projects-v2
+      #   with:
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_habits: yes
+      #     plugin_habits_facts: yes
+      #     plugin_habits_charts: no
+      #     config_timezone: Asia/Jakarta
+      #     filename: metrics-habits.svg
+      #     committer_message: "💜💜💜"
 
       # 5. Repositories
       - name: Metrics - Repositories
@@ -67,8 +67,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_repositories: yes
-          plugin_repositories_forks: software-SavvyLingua-2025
-          plugin_repositories_featured: cv-Ingreadyent-2025, org-Sheet-Generator-2025, oop-game-2025, laravel11-GooSe-2025, paper-nlp-IndoBERT-2025
+          plugin_repositories_featured: cv-Ingreadyent-2025, org-Sheet-Generator-2025, oop-game-2025
           filename: metrics-repositories.svg
-          committer_message: "💜💜"
+          committer_message: "💜💜💜💜"
           
