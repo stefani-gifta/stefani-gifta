@@ -17,7 +17,13 @@
 
 <br>
 
-My Tech Stack:
+Topics I've worked on:
+
+![Topics from repositories](topics.svg)
+
+<br>
+
+My tech stack:
 
 <br>
 
