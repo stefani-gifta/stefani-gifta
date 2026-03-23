@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="400" viewBox="0 0 680 400">
 <style>
 text { font-family: sans-serif; font-weight: 500; }
 .w1 { fill: #0075ca; }
@@ -6,30 +6,32 @@ text { font-family: sans-serif; font-weight: 500; }
 .w3 { fill: #57a8e8; }
 .w4 { fill: #8ec4f0; }
 </style>
-<text class="w1" x="300" y="100" font-size="20" text-anchor="middle">natural-language-processing</text>
-<text class="w3" x="289.7045227518453" y="81.69690877931465" font-size="16" text-anchor="middle">sentiment-analysis</text>
-<text class="w3" x="308.69658610744017" y="122.36893806321343" font-size="16" text-anchor="middle">transfer-learning</text>
-<text class="w3" x="286.17414646312284" y="63.532949475220484" font-size="16" text-anchor="middle">indobertweet</text>
-<text class="w3" x="309.1982808579078" y="140.98038102871968" font-size="16" text-anchor="middle">ai-terms-simplification</text>
-<text class="w3" x="287.98463943244553" y="44.28078329308947" font-size="16" text-anchor="middle">chatbot</text>
-<text class="w4" x="304.24423210006216" y="159.84969919624325" font-size="12" text-anchor="middle">java-cli</text>
-<text class="w4" x="284.8227024409839" y="29.617831528113015" font-size="12" text-anchor="middle">java-game-development</text>
-<text class="w4" x="305.3052901250777" y="174.8121239953041" font-size="12" text-anchor="middle">object-oriented-programming</text>
-<text class="w4" x="281.66076544952216" y="14.95487976313656" font-size="12" text-anchor="middle">animated-writing</text>
-<text class="w4" x="306.3663481500933" y="189.7745487943649" font-size="12" text-anchor="middle">cross-plattform</text>
-<text class="w4" x="360.18676171827934" y="45.79157156062294" font-size="12" text-anchor="middle">jeju-language</text>
-<text class="w4" x="210.35421819459606" y="160.22984147827307" font-size="12" text-anchor="middle">software-engineering</text>
-<text class="w4" x="386.66023956551624" y="159.28745970647873" font-size="12" text-anchor="middle">project-management</text>
-<text class="w4" x="384.4098949561526" y="60.96194634089335" font-size="12" text-anchor="middle">web-development</text>
-<text class="w4" x="412.9904091108055" y="84.8617223908135" font-size="12" text-anchor="middle">excel-generator</text>
-<text class="w4" x="188.5202688924663" y="64.48564301311391" font-size="12" text-anchor="middle">computer-vision</text>
-<text class="w4" x="195.07926528890474" y="48.2251081345024" font-size="12" text-anchor="middle">exchange-student</text>
-<text class="w4" x="370.4509092296326" y="14.223141881285557" font-size="12" text-anchor="middle">mobilenetv2</text>
-<text class="w4" x="222.73464440510313" y="190" font-size="12" text-anchor="middle">data-mining</text>
-<text class="w4" x="405.17381088973434" y="30.613621632697942" font-size="12" text-anchor="middle">job-prediction</text>
-<text class="w4" x="210.9257869075626" y="126.73545514785671" font-size="12" text-anchor="middle">lightgbm</text>
-<text class="w4" x="460.1809146256388" y="124.20897746072308" font-size="12" text-anchor="middle">multi-label-classification</text>
-<text class="w4" x="169.6526703720298" y="79.17756837309136" font-size="12" text-anchor="middle">resume-parsing</text>
-<text class="w4" x="376.45802609729174" y="190" font-size="12" text-anchor="middle">flan-t5</text>
-<text class="w4" x="162.07863779235504" y="141.39683377732652" font-size="12" text-anchor="middle">cross-platform</text>
+<text class="w1" x="340" y="200" font-size="34" text-anchor="middle">natural-language-processing</text>
+<text class="w3" x="334.3085134153689" y="173.60668682304237" font-size="24" text-anchor="middle">sentiment-analysis</text>
+<text class="w3" x="354.1319524245903" y="236.34952435272183" font-size="24" text-anchor="middle">transfer-learning</text>
+<text class="w3" x="328.61702683073787" y="147.21337364608476" font-size="24" text-anchor="middle">indobertweet</text>
+<text class="w3" x="344.4564437050653" y="262.84218415605545" font-size="24" text-anchor="middle">ai-terms-simplification</text>
+<text class="w3" x="322.92554024610683" y="120.82006046912714" font-size="24" text-anchor="middle">chatbot</text>
+<text class="w4" x="346.3663481500933" y="289.77454879436493" font-size="14" text-anchor="middle">java-cli</text>
+<text class="w4" x="334.0145425977288" y="104.18677387914758" font-size="14" text-anchor="middle">java-game-development</text>
+<text class="w4" x="347.63961778011196" y="307.72945855323786" font-size="14" text-anchor="middle">object-oriented-programming</text>
+<text class="w4" x="332.89226933480296" y="86.22179398148775" font-size="14" text-anchor="middle">animated-writing</text>
+<text class="w4" x="422.4781549472717" y="125.71437584233514" font-size="14" text-anchor="middle">cross-plattform</text>
+<text class="w4" x="266.5036861414396" y="291.03456403588683" font-size="14" text-anchor="middle">jeju-language</text>
+<text class="w4" x="348.91288741013057" y="325.68436831211085" font-size="14" text-anchor="middle">software-engineering</text>
+<text class="w4" x="331.7699960718771" y="68.25681408382792" font-size="14" text-anchor="middle">project-management</text>
+<text class="w4" x="436.58293069134436" y="289.9763163230801" font-size="14" text-anchor="middle">web-development</text>
+<text class="w4" x="459.80759284099076" y="144.59114964513896" font-size="14" text-anchor="middle">excel-generator</text>
+<text class="w4" x="350.1861570401492" y="343.63927807098383" font-size="14" text-anchor="middle">computer-vision</text>
+<text class="w4" x="330.64772280895124" y="50.291834186168074" font-size="14" text-anchor="middle">exchange-student</text>
+<text class="w4" x="236.60952097521525" y="127.98327383846481" font-size="14" text-anchor="middle">mobilenetv2</text>
+<text class="w4" x="207.8253612176736" y="239.67196570327124" font-size="14" text-anchor="middle">data-mining</text>
+<text class="w4" x="202.79417709842008" y="156.29002216998634" font-size="14" text-anchor="middle">job-prediction</text>
+<text class="w4" x="440.31126953046555" y="109.65261926770489" font-size="14" text-anchor="middle">lightgbm</text>
+<text class="w4" x="351.4594266701679" y="361.5941878298568" font-size="14" text-anchor="middle">multi-label-classification</text>
+<text class="w4" x="497.59188639138665" y="178.8860864924504" font-size="14" text-anchor="middle">resume-parsing</text>
+<text class="w4" x="472.5034995577506" y="161.4406612485487" font-size="14" text-anchor="middle">flan-t5</text>
+<text class="w4" x="207.06938411099102" y="107.40706636374048" font-size="14" text-anchor="middle">cross-platform</text>
+<text class="w4" x="329.5254495460254" y="32.32685428850826" font-size="14" text-anchor="middle">readme-svg-generator</text>
+<text class="w4" x="464.83180208235717" y="87.56770397758832" font-size="14" text-anchor="middle">wordcloud-generator</text>
 </svg>
