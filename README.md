@@ -62,6 +62,7 @@ My tech stack:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630.svg?style=flat&logo=composer&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837.svg?style=flat&logo=npm&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=flat&logo=json&logoColor=white)
 
@@ -161,7 +162,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 <br>
 
-<ins><sup>▼ CHECK OUT MY FAVORITE PROJECTS BELOW ▼</sup></ins>
+<ins><sup>CHECK OUT MY FAVORITE PROJECTS BELOW</sup></ins>
 
 <br>
 
