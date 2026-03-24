@@ -2,7 +2,7 @@
 
 # *Hi, I'm Gifta*
 
-![Gifta's metrics](metrics-base.svg)
+<a href="https://github.com/stefani-gifta">![Gifta's metrics](metrics-base.svg)</a>
 
 <br>
 
