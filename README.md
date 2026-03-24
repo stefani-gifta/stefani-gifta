@@ -19,7 +19,7 @@
 
 Topics I've worked on:
 
-![Topics from repositories](topics.svg)
+<a href="https://github.com/marketplace/actions/word-cloud-repo-topics">![Topics from repositories](topics.svg)</a>
 
 <br>
 
