@@ -118,42 +118,43 @@ My tech stack:
 <br>
 
 <!--START_SECTION:fun-facts-->
-**🕒 I'm A Twilight Taskmaster 🌆**
+I'm a twilight taskmaster
 
 ```text
-🌅 Morning                54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73%
-🌞 Daytime                228 commits         ████████░░░░░░░░░░░░░░░░░   32.62%
-🌆 Evening                264 commits         █████████░░░░░░░░░░░░░░░░   37.77%
-🌙 Night                  153 commits         █████░░░░░░░░░░░░░░░░░░░░   21.89%
+Morning                  54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58%
+Daytime                  228 commits         ████████░░░░░░░░░░░░░░░░░   32.02%
+Evening                  275 commits         ██████████░░░░░░░░░░░░░░░   38.62%
+Night                    155 commits         █████░░░░░░░░░░░░░░░░░░░░   21.77%
 ```
 
-**📅 I'm Most Productive on Tuesday**
+I'm most productive on Tuesday
 
 ```text
-Sunday                   79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.30%
-Monday                   114 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31%
-Tuesday                  138 commits         █████░░░░░░░░░░░░░░░░░░░░   19.74%
-Wednesday                85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.16%
-Thursday                 101 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45%
-Friday                   113 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17%
-Saturday                 69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.87%
+Sunday                   79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.10%
+Monday                   114 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01%
+Tuesday                  138 commits         █████░░░░░░░░░░░░░░░░░░░░   19.38%
+Wednesday                85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.94%
+Thursday                 103 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47%
+Friday                   123 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28%
+Saturday                 70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.83%
 ```
 
-**🔥 I Mostly Code in JavaScript**
+My most used language is JavaScript
 
 ```text
-JavaScript               8 repos             ██████████░░░░░░░░░░░░░░░   38.10%
-HTML                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05%
-Jupyter Notebook         3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29%
-Blade                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52%
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52%
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76%
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76%
+JavaScript               8 repos             █████████░░░░░░░░░░░░░░░░   36.36%
+HTML                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18%
+Jupyter Notebook         3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64%
+Blade                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09%
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09%
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55%
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55%
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55%
 ```
 
 
 
-⏳ *Last updated on Fri, 27 Mar 2026 09:33:49 WIB*
+ *Last updated on Sat, 28 Mar 2026 00:25:22 WIB*
 <!--END_SECTION:fun-facts-->
 
 <br>
