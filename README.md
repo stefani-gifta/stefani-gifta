@@ -4,9 +4,8 @@
 
 <a href="https://github.com/stefani-gifta">![Gifta's metrics](metrics-base.svg)</a>
 
-<br>
+Let's connect on:
 
-<sup>`LET'S CONNECT ON:`ㅤ</sup>
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/stefani-gifta-ganda-4858b21b8)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stefanigifta)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stefanigiftaganda@gmail.com)
@@ -17,13 +16,13 @@
 
 <br>
 
-Topics I've worked on:
+### <ins><sup>TOPICS I'VE WORKED ON</sup></ins>
 
 <a href="https://github.com/marketplace/actions/word-cloud-repo-topics">![Topics from repositories](topics.svg)</a>
 
 <br>
 
-My tech stack:
+### <ins><sup>MY TECH STACK</sup></ins>
 
 <br>
 
@@ -163,7 +162,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 <br>
 
-<ins><sup>CHECK OUT MY FAVORITE PROJECTS BELOW</sup></ins>
+### <ins><sup>CHECK OUT MY FAVORITE PROJECTS BELOW</sup></ins>
 
 <br>
 
