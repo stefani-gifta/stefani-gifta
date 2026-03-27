@@ -4,7 +4,9 @@
 
 <a href="https://github.com/stefani-gifta">![Gifta's metrics](metrics-base.svg)</a>
 
-Let's connect on:
+<br>
+
+### <sup>LET'S CONNECT!</sup>
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/stefani-gifta-ganda-4858b21b8)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stefanigifta)
@@ -19,8 +21,6 @@ Let's connect on:
 ### <ins><sup>TOPICS I'VE WORKED ON</sup></ins>
 
 <a href="https://github.com/marketplace/actions/word-cloud-repo-topics">![Topics from repositories](topics.svg)</a>
-
-<br>
 
 ### <ins><sup>MY TECH STACK</sup></ins>
 
@@ -113,6 +113,10 @@ Let's connect on:
 <br>
 
 ---
+
+<br>
+
+### <ins><sup>FUN FACTS</sup></ins>
 
 <br>
 
