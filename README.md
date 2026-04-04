@@ -4,11 +4,10 @@
 
 <a href="https://github.com/stefani-gifta">![Gifta's metrics](metrics-base.svg)</a>
 
-<br>
-
 ### <sup>LET'S CONNECT!</sup>
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/stefani-gifta-ganda-4858b21b8)
+[![CodePen](https://custom-icon-badges.demolab.com/badge/CodePen-595858?&logo=codepen-white&logoColor=black)](https://codepen.io/stefanigifta)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stefanigifta)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stefanigiftaganda@gmail.com)
 
@@ -103,7 +102,6 @@
 <sup>`IDEs & Editors`ㅤ</sup>
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=flat&logo=eclipse&logoColor=white)
-![CodePen](https://custom-icon-badges.demolab.com/badge/CodePen-white?&logo=codepen-black&logoColor=black)
 
 <sup>`Operating Systems`ㅤ</sup>
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
