@@ -160,11 +160,7 @@ Java                     1 repo              █░░░░░░░░░░�
  *Last updated on Sat, 04 Apr 2026 09:24:16 WIB*
 <!--END_SECTION:fun-facts-->
 
-<br>
-
----
-
-<br>
+<!-- <br>
 
 ### <ins><sup>CHECK OUT MY FAVORITE PROJECTS BELOW</sup></ins>
 
@@ -172,7 +168,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 ![Gifta's fav repos](metrics-repositories.svg)
 
-</div>
+</div> -->
 
 <!--
 stefani-gifta/stefani-gifta is a ✨ _special_ ✨ repository because its<sup>`README.md`<sup>(this file) appears on your GitHub profile.
