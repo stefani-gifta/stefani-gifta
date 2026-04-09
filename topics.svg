@@ -34,4 +34,6 @@ text { font-family: sans-serif; font-weight: 500; }
 <text class="w4" x="182.8043947585351" y="68.8835819281297" font-size="14" text-anchor="middle">cross-platform</text>
 <text class="w4" x="468.5799503655371" y="52.6831859733054" font-size="14" text-anchor="middle">readme-svg-generator</text>
 <text class="w4" x="367.1131231076573" y="218.06684290977392" font-size="14" text-anchor="middle">wordcloud-generator</text>
+<text class="w4" x="145.32210142209524" y="185.59530459052567" font-size="14" text-anchor="middle">personal-website</text>
+<text class="w4" x="540.3353410407107" y="91.35110016527764" font-size="14" text-anchor="middle">portfolio</text>
 </svg>
