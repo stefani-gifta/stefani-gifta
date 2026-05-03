@@ -140,16 +140,16 @@ My most used language is JavaScript
 JavaScript               10 repos            ██████████░░░░░░░░░░░░░░░   41.67%
 HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67%
 Jupyter Notebook         3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50%
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33%
 Blade                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33%
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17%
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33%
 Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17%
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17%
 C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17%
 ```
 
 
 
- *Last updated on Sat, 02 May 2026 09:49:51 WIB*
+ *Last updated on Sun, 03 May 2026 10:25:03 WIB*
 <!--END_SECTION:fun-facts-->
 
 <!-- <br>
