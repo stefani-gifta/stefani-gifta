@@ -143,13 +143,13 @@ Jupyter Notebook         3 repos             ███░░░░░░░░�
 CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33%
 Blade                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33%
 Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17%
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17%
 Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17%
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17%
 ```
 
 
 
- *Last updated on Tue, 30 Jun 2026 10:47:14 WIB*
+ *Last updated on Wed, 01 Jul 2026 11:02:16 WIB*
 <!--END_SECTION:fun-facts-->
 
 <!-- <br>
