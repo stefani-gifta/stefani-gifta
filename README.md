@@ -142,14 +142,14 @@ HTML                     5 repos             █████░░░░░░�
 Jupyter Notebook         3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00%
 Blade                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00%
 CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00%
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00%
 Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00%
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00%
 Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00%
 ```
 
 
 
- *Last updated on Sun, 02 Aug 2026 09:52:08 WIB*
+ *Last updated on Mon, 03 Aug 2026 09:53:08 WIB*
 <!--END_SECTION:fun-facts-->
 
 <!-- <br>
