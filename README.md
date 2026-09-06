@@ -141,16 +141,16 @@ JavaScript               11 repos            █████████░░�
 HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67%
 TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33%
 Jupyter Notebook         3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.00%
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67%
 Blade                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67%
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33%
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67%
 C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33%
 Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33%
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33%
 ```
 
 
 
- *Last updated on Sat, 05 Sep 2026 10:23:16 WIB*
+ *Last updated on Sun, 06 Sep 2026 10:23:21 WIB*
 <!--END_SECTION:fun-facts-->
 
 <!-- <br>
