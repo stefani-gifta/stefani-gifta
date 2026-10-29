@@ -116,41 +116,41 @@ Visit [my website](https://stefani-gifta.vercel.app/) or connect with me on:
 I'm an afternoon warrior
 
 ```text
-Morning                  90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.43%
-Daytime                  353 commits         █████████░░░░░░░░░░░░░░░░   37.00%
-Evening                  346 commits         █████████░░░░░░░░░░░░░░░░   36.27%
-Night                    165 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.30%
+Morning                  104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74%
+Daytime                  353 commits         █████████░░░░░░░░░░░░░░░░   36.47%
+Evening                  346 commits         █████████░░░░░░░░░░░░░░░░   35.74%
+Night                    165 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05%
 ```
 
 I'm most productive on Friday
 
 ```text
-Sunday                   128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42%
-Monday                   122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79%
-Tuesday                  156 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35%
-Wednesday                140 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68%
-Thursday                 122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79%
-Friday                   190 commits         █████░░░░░░░░░░░░░░░░░░░░   19.92%
-Saturday                 96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.06%
+Sunday                   128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22%
+Monday                   122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60%
+Tuesday                  156 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12%
+Wednesday                140 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46%
+Thursday                 136 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05%
+Friday                   190 commits         █████░░░░░░░░░░░░░░░░░░░░   19.63%
+Saturday                 96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.92%
 ```
 
 My most used language is JavaScript
 
 ```text
-JavaScript               12 repos            █████████░░░░░░░░░░░░░░░░   35.29%
-HTML                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53%
-TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76%
-Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82%
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88%
-Blade                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88%
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94%
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94%
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94%
+JavaScript               12 repos            █████████░░░░░░░░░░░░░░░░   34.29%
+HTML                     9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.71%
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43%
+Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57%
+Blade                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71%
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71%
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86%
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86%
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86%
 ```
 
 
 
- *Last updated on Wed, 28 Oct 2026 11:29:46 WIB*
+ *Last updated on Thu, 29 Oct 2026 11:45:52 WIB*
 <!--END_SECTION:fun-facts-->
 
 <!-- <br>
